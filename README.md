@@ -92,4 +92,4 @@ Remote sensing and Google Earth Engine (Landsat LST compositing, cloud masking, 
 ---
 
 *Author: Nirajan Tripathi, M.S. Geography (GIS and remote sensing), Texas State University.*
-[Portfolio](https://nirajan550123.github.io/) · [LinkedIn](https://www.linkedin.com/in/nirajan-tripathi-5434a8308/) · [GitHub](https://github.com/nirajan550123)
+[Portfolio](https://nirajan550123.github.io/) · [LinkedIn](https://www.linkedin.com/in/nirajan-tripathi/) · [GitHub](https://github.com/nirajan550123)
